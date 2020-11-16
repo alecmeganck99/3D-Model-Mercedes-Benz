@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,iBAGE,YAAa,CACb,WACF,CAEA,KACE,wBAAyB,CACzB,QACF","file":"main.200e3b1b.chunk.css","sourcesContent":["html,\nbody,\ncanvas {\n  height: 100vh;\n  width: 100vw;\n}\n\nbody {\n  background-color: #1d2129;\n  margin: 0;\n}\n"]}

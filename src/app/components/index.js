@@ -1,0 +1,10 @@
+export { default as Indicators } from "./Indicators";
+export { default as Outerring } from "./Outerring";
+export { default as Innerring } from "./Innerring";
+export { default as Star } from "./Star";
+export { default as Speed } from "./Speed";
+export { default as Numbers } from "./Numbers";
+export { default as Phone } from "./Phone";
+export { default as Incomingcall } from "./Incomingcall";
+export { default as Lighting } from "./Lighting";
+export { default as StartInterface } from "./Start";

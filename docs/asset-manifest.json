@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/3D-Model-Mercedes-Benz/static/css/main.200e3b1b.chunk.css",
+    "main.js": "/3D-Model-Mercedes-Benz/static/js/main.c38278d6.chunk.js",
+    "main.js.map": "/3D-Model-Mercedes-Benz/static/js/main.c38278d6.chunk.js.map",
+    "runtime-main.js": "/3D-Model-Mercedes-Benz/static/js/runtime-main.67df35a8.js",
+    "runtime-main.js.map": "/3D-Model-Mercedes-Benz/static/js/runtime-main.67df35a8.js.map",
+    "static/js/2.7c45cdb3.chunk.js": "/3D-Model-Mercedes-Benz/static/js/2.7c45cdb3.chunk.js",
+    "static/js/2.7c45cdb3.chunk.js.map": "/3D-Model-Mercedes-Benz/static/js/2.7c45cdb3.chunk.js.map",
+    "index.html": "/3D-Model-Mercedes-Benz/index.html",
+    "precache-manifest.106ea46d6fa90bda6e7c9c7892908296.js": "/3D-Model-Mercedes-Benz/precache-manifest.106ea46d6fa90bda6e7c9c7892908296.js",
+    "service-worker.js": "/3D-Model-Mercedes-Benz/service-worker.js",
+    "static/css/main.200e3b1b.chunk.css.map": "/3D-Model-Mercedes-Benz/static/css/main.200e3b1b.chunk.css.map",
+    "static/js/2.7c45cdb3.chunk.js.LICENSE.txt": "/3D-Model-Mercedes-Benz/static/js/2.7c45cdb3.chunk.js.LICENSE.txt",
+    "static/media/Incomingcall.glb": "/3D-Model-Mercedes-Benz/static/media/Incomingcall.e8096b88.glb",
+    "static/media/Indicators.glb": "/3D-Model-Mercedes-Benz/static/media/Indicators.64b62465.glb",
+    "static/media/Innerring.glb": "/3D-Model-Mercedes-Benz/static/media/Innerring.6cbae6af.glb",
+    "static/media/Numbers.glb": "/3D-Model-Mercedes-Benz/static/media/Numbers.20646b4f.glb",
+    "static/media/Outerring.glb": "/3D-Model-Mercedes-Benz/static/media/Outerring.56b098a7.glb",
+    "static/media/Phone.glb": "/3D-Model-Mercedes-Benz/static/media/Phone.c71e5e23.glb",
+    "static/media/Star.glb": "/3D-Model-Mercedes-Benz/static/media/Star.3b439152.glb",
+    "static/media/Startscreen.glb": "/3D-Model-Mercedes-Benz/static/media/Startscreen.2faa2a8c.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67df35a8.js",
+    "static/js/2.7c45cdb3.chunk.js",
+    "static/css/main.200e3b1b.chunk.css",
+    "static/js/main.c38278d6.chunk.js"
+  ]
+}
